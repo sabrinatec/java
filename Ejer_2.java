@@ -1,4 +1,4 @@
-package tp2;
+package tarea;
 
 
 import java.util.Scanner;
