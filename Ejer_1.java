@@ -1,6 +1,6 @@
-package Punto_1;
+package tarea;
 import java.util.Scanner;
-public class Punto_1 {
+public class Abono {
 
 	public static void main(String[] args) {
 		int cantidad;
